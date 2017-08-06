@@ -1,4 +1,3 @@
-<script type="text/javascript"  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 # 数学<br>
 [math](http://m.txdylyh.ml)<br>
 \ frac {1} {3} <br>
