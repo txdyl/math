@@ -1,3 +1,3 @@
 # 数学<br>
-[math] (http://m.txdylyh.ml）
+[math](http://m.txdylyh.ml)
  
