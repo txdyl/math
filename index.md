@@ -1,6 +1,6 @@
 # 数学<br>
 [math](http://m.txdylyh.ml)<br>
-$$\frac{1}{3}$$ <br>
+测试test$$\frac{1}{3}$$ test<br>
 $$\sideset {^1_2}{^3_4} \bigotimes$$ <br>
 $$\left[ 
  \begin{matrix} 
