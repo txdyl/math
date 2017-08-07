@@ -1,5 +1,5 @@
 `韦达定理`<br>
-<a href="#content">内容</a><br>
+[内容](#content) <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
@@ -7,9 +7,9 @@
 ---
 
 ---
-<a id="#content">
+<span id="content">
 内容：设$${x}_{1}$$，$${x}_{2}$$是方程$${a}{x}^{2}{+}{b}{x}{+}{c}{=}{0}$$的两个实数根，则$${x}_{1}{+}{x}_{2}{=}{-}\frac{b}{a}{,}{x}_{1}{x}_{2}{=}\frac{c}{a}$$。<br>
 证明：
-</a>
+</span>
 
 ---
